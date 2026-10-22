@@ -1,0 +1,1 @@
+{"name":"inr-crypto-tax","version":"0.1.0","description":"India crypto (VDA) 30% tax and 1% TDS maths","main":"index.js","scripts":{"test":"node test.js"},"license":"MIT","homepage":"https://btcmedia.news/tools/crypto-tax-calculator-india/"}
